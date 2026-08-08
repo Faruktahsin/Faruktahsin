@@ -1,68 +1,128 @@
-# Hi, I'm Faruk Tahsin ARIK 👋
+# Hi, I'm Faruk Tahsin Arık 👋
 
-### Electrical & Electronics Engineering Student at Marmara University
+<p align="center">
+  <b>Electrical & Electronics Engineering Student @ Marmara University</b><br>
+  AI Engineering • Generative AI • AI Agents • Automation • Open Source
+</p>
 
-I am passionate about building practical solutions with artificial intelligence, automation, and open-source technologies. My goal is to develop software and educational resources that help students, developers, and engineers learn faster, automate repetitive work, and solve real-world problems.
+<p align="center">
+  Building AI-powered tools, intelligent workflows, and developer-focused solutions.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Electrical & Electronics Engineering student at **Marmara University**
-- 🤖 Interested in **Artificial Intelligence, AI Agents, and Automation**
-- ⚙️ Building practical engineering and productivity tools
-- 🌱 Continuously learning software engineering and modern AI technologies
-- 🤝 Open to collaborating on meaningful open-source projects
+I'm an Electrical & Electronics Engineering student passionate about 
+Artificial Intelligence, Agentic Systems, and Software Engineering.
+
+I focus on designing and building practical AI solutions that help developers,
+engineers, and learners work more efficiently.
+
+My interests include:
+
+- 🤖 Generative AI & AI Agents
+- 🧠 Large Language Models (LLMs)
+- ⚙️ Workflow Automation
+- 🔌 Model Context Protocol (MCP)
+- 🌎 Open Source Software
+- 🏗️ AI Engineering
+
+
+## 🚀 Featured Projects
+
+### 🧭 DevCompass
+
+An AI-powered developer assistant designed to help developers
+understand, navigate, and improve software projects.
+
+Exploring:
+- AI-assisted code understanding
+- Developer productivity workflows
+- Intelligent engineering tools
+
+
+### 🧩 AI Engineering Toolkit
+
+An open-source toolkit for building AI workflows,
+agent systems, and automation pipelines.
+
+Focus areas:
+- Generative AI applications
+- AI Agent architectures
+- MCP integrations
+- Developer automation
+
+
+### 🧠 Personal AI Knowledge Base (PAKB)
+
+A local-first AI knowledge management system exploring
+context engineering, intelligent retrieval, and AI-powered workflows.
+
+
+### ⚙️ AI Engineer Workstation
+
+A reproducible development environment for AI engineering,
+including tools, configurations, and workflows.
+
 
 ---
 
-## 🚀 Current Focus
+## 🛠️ Tech Stack
 
-- AI-powered engineering tools
-- Workflow automation with n8n
-- Open-source software development
-- Engineering learning resources
-- Python programming
-- Prompt engineering
+### Artificial Intelligence
+Python • Generative AI • LLMs • AI Agents • Prompt Engineering
 
----
+### AI Engineering & Automation
+MCP • n8n • LangChain • LangGraph • APIs
 
-## 🛠️ Technologies & Tools
+### Software Development
+Python • TypeScript • Git • GitHub • Docker • VS Code
 
-- Python
-- Git & GitHub
-- n8n
-- Markdown
-- VS Code
-- AI-assisted development
+### Cloud & Infrastructure
+AWS • Google Cloud • Linux
+
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
-- Large Language Models (LLMs)
-- AI Agents
-- Workflow Automation
-- Software Architecture
-- Machine Learning
-- Embedded Systems
+- Agentic AI architectures
+- AI application development
+- Software architecture patterns
+- Machine learning systems
+- Cloud-native AI solutions
+
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build high-quality open-source projects
-- Share practical engineering resources
-- Contribute to the open-source community
-- Develop AI tools that solve real problems
-- Continuously improve as an engineer and developer
+🚀 Build impactful open-source AI projects  
+🤖 Develop intelligent systems solving real-world problems  
+🌎 Contribute to AI and developer communities  
+📚 Share knowledge through technical content  
+
 
 ---
 
-## 📫 Contact
+## 🤝 Let's Connect
 
-- 📧 faruk.tahsin@marun.edu.tr
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/faruk-tahsin-arik/">
+LinkedIn
+</a>
 
-> *"Learning by building, sharing by contributing."*
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/Faruktahsin">
+GitHub
+</a>
+
+</p>
+
+
+<p align="center">
+<i>"Learning by building, sharing by contributing."</i>
+</p>
