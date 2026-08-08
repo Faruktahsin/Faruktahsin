@@ -274,7 +274,3 @@ Feel free to connect with me:
 <p align="center">
 <i>"Learning by building, sharing by contributing."</i>
 </p>
-
-<p align="center">
-<i>"Learning by building, sharing by contributing."</i>
-</p>
