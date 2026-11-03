@@ -68,57 +68,55 @@ Computing, Data-driven systems, and Software Development.
 ## 🚀 Featured Projects
 
 
-### 🧩 AI Engineering Toolkit (AIET)
+### 🧩 [AI Engineering Toolkit (AIET)](https://github.com/Faruktahsin/AI-Engineering-Toolkit)
 
-A production-grade open-source ecosystem for building
-AI Systems Engineering solutions, Context Intelligence,
-and Local Agent Memory.
+A local-first, open-source TypeScript framework that gives AI agents
+persistent, governed memory. Published on npm as
+[`@aiet/core`](https://www.npmjs.com/package/@aiet/core) and related `@aiet/*` packages.
 
-AIET focuses on designing reliable, scalable, and
-token-efficient AI systems through modular architectures.
-
-Core areas:
-- 🧠 Personal AI Knowledge Base (PAKB) and context systems
-- 🤖 AI Agent architectures and execution runtimes
-- 🔌 Model Context Protocol (MCP) integrations
-- 📊 AI evaluation and benchmarking workflows
-- ⚙️ AI automation pipelines and engineering tools
+- 🧠 Five structured memory primitives with Zod/JSON Schema validation
+- 🔍 Hybrid retrieval on SQLite (FTS5 BM25 + vector embeddings + RRF ranking)
+- 🛡️ Approval workflow and a hash-chained, tamper-evident audit log
+- 📝 Deterministic context compiler that emits `AGENTS.md`, `CLAUDE.md`, and `.cursorrules`
+- 🔌 MCP server plus adapters for Vercel AI SDK, LangGraph, and OpenAI Agents SDK
+- ✅ CI with lint, typecheck, tests, and a CLI smoke test
 
 
-### ⚙️ Developer Workstation
+### 📉 [Telco Customer Churn Prediction](https://github.com/Faruktahsin/telco-churn-tahmini)
 
-A reproducible developer environment designed to automate
-the setup and maintenance of modern software development
-workstations across different machines.
+End-to-end churn analysis on the IBM Telco dataset (7,043 customers),
+written up in a Medium article:
+[*Churn Tahmininde En Zor Kısım Model Değil*](https://medium.com/@afaruktahsin/churn-tahmininde-en-zor-kısım-model-değil-1dea9df00b50).
 
-The goal:
+- 📊 Logistic Regression vs. tuned Random Forest (test ROC-AUC ≈ 0.85)
+- 💰 Cost-based decision threshold, selected with cross-validation on training data
+- 🎯 Decile/lift analysis for prioritising retention outreach
+- 🔁 Reproducible pipeline with pinned dependencies and a script that re-checks every reported number
+
+
+### ☁️ [AWS Cloud Monitoring Lab](https://github.com/Faruktahsin/aws-cloud-monitoring-lab)
+
+A documented single-instance EC2 observability case study with redacted
+evidence from the live lab.
+
+- 📈 CloudWatch Agent for memory, root-disk, and swap metrics
+- 🖥️ CloudWatch dashboard combining `AWS/EC2` and `CWAgent` signals
+- 🚨 CloudFormation-defined alarms with Amazon SNS email notifications
+- 🔐 Least-privilege IAM, cost awareness, and evidence redaction
+- 🧾 Decision log, runbook, and troubleshooting guide
+
+
+### ⚙️ [DevCompass — Developer Workstation](https://github.com/Faruktahsin/developer-workstation)
+
+A dependency-free Bash CLI that sets up and checks macOS development
+workstations safely.
 
 > Buy a new laptop → Clone the repository → Run one command → Start coding.
 
-Instead of manually configuring tools, the project provides
-automated and documented workflows for creating a consistent
-development environment.
-
-Focus areas:
-- 💻 Developer environment automation
-- 🐍 Python development setup
-- 🐳 Docker and container tooling
-- ☁️ Cloud development foundations (AWS CLI)
-- 🔧 Git, GitHub CLI, VS Code, and productivity tools
-- 🔄 Reproducible engineering workflows
-
-
-### 🧠 PAKB (Personal AI Knowledge Base)
-
-A flagship AIET module exploring local-first AI memory,
-context engineering, and intelligent knowledge systems.
-
-Focus areas:
-- Local AI knowledge management
-- Context compilation
-- Intelligent retrieval workflows
-- MCP-based agent integrations
-- Structured knowledge representation
+- 💻 Dry-run-first, confirmation-gated, idempotent setup
+- 🧰 Role profiles: foundation, web, data science, and DevOps (Docker, kubectl, Terraform, AWS CLI)
+- 🗺️ Offline knowledge graph for role roadmaps and prerequisite learning paths
+- ✅ ShellCheck-clean, with a CLI test suite running in CI
 
 ---
 
